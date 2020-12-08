@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Indraneel Chakraborty. <br>
-Visit [](https://www.ineelhere.github.io) to know about me!
+Click [here](https://www.ineelhere.github.io) to know about me!
 
 <!--
 **ineelhere/ineelhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
