@@ -3,7 +3,7 @@ import py3Dmol
 from streamlit.proto.Markdown_pb2 import Markdown
 
 st.title("ChemView | ineelhere")
-col1, col2 = st.beta_columns(2)
+col1, col2 = st.columns(2)
 pdbid = col1.text_input("Please provide the PDB ID here")
 presentation = col2.selectbox("Please select presentation style", ['sphere', 'stick', 'line', 'cross', 'cartoon'])
 
