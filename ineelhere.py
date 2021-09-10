@@ -2,6 +2,7 @@ import streamlit as st
 from translate_text import *
 from chemapp import *
 from portfolio import *
+from word_freq import *
 
 st.sidebar.markdown("""
 ## `Hello World!`
@@ -12,8 +13,9 @@ st.sidebar.markdown("""
 
 st.sidebar.write("**Here are a few webapps I've created with streamlit in python**")
 selections = ["About me 🙂", 
-            "Translate text using Python", 
-            "Visualize chemical structures", 
+            "Translate text using Python",
+            "Find frequencies of all words present in a sentence" ,
+            "Visualize protein structures", 
             "Realtime stats on the COVID19 situation in India"]
 
 response = st.sidebar.radio('', selections)
@@ -23,8 +25,10 @@ if response == selections[0]:
 if response == selections[1]:
     translate_text()
 if response == selections[2]:
-    chemapp()
+    word_freq()    
 if response == selections[3]:
+    chemapp()
+if response == selections[4]:
     st.success("""
     This webapp is available here - **[https://share.streamlit.io/ineelhere/ifc19/2.0/ifc19_app.py](https://share.streamlit.io/ineelhere/ifc19/2.0/ifc19_app.py)**
         \nPlease click on the above URL to visit the webapp on a separate tab.
