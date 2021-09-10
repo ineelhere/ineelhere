@@ -15,7 +15,7 @@ st.sidebar.write("**Here are a few webapps I've created with streamlit in python
 selections = ["About me 🙂", 
             "Translate text using Python",
             "Find frequencies of all words present in a sentence" ,
-            "Visualize protein structures", 
+            "Visualize chemical structures", 
             "Realtime stats on the COVID19 situation in India"]
 
 response = st.sidebar.radio('', selections)
