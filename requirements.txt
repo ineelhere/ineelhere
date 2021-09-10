@@ -1,2 +1,4 @@
 py3Dmol >= 0
 textblob >= 0
+pandas >= 0
+plotly >= 0
