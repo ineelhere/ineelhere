@@ -16,18 +16,18 @@ def word_freq():
         value = slider_ph.slider("Move the slider to view data for the number of most repeated word(s)", 1, len(df), 1, 1)
         df = df.head(value)
         st.dataframe(df)
-        @st.cache
-        def convert_df(df):
-            return df.to_csv(index=False).encode('utf-8')
+#         @st.cache
+#         def convert_df(df):
+#             return df.to_csv(index=False).encode('utf-8')
 
-        csv = convert_df(df)
+#         csv = convert_df(df)
 
-        st.download_button(
-            "Press to Download",
-            csv,
-            "frequencies_ineelhere.csv",
-            "text/csv",
-            key='browser-data')
+#         st.download_button(
+#             "Press to Download",
+#             csv,
+#             "frequencies_ineelhere.csv",
+#             "text/csv",
+#             key='browser-data')
         
         
         fig = px.bar(df, x='Word', y='Frequency',  title='Words and their frequencies')
