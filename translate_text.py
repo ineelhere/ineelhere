@@ -3,6 +3,7 @@ from textblob import TextBlob
 import textblob.exceptions
 
 def translate_text():
+    st.error("**Message: Usage limit maxed out! App might throw errors.**")
     st.title("Multilingual Translator | ineelhere")
     languages = {
     'af': 'afrikaans',
