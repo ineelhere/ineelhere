@@ -5,7 +5,7 @@ def portfolio():
 
 
     st.markdown("""
-    <div class="container"> <br><h3 align='center'><strong> I'm Indraneel Chakraborty! 👨‍💻 </strong></h3><br> <p align="center"><img src="https://avatars.githubusercontent.com/u/64887729?v=4" alt="Avatar" height="200" width="200" style="border-radius: 50%;" ></p><br>
+    <div class="container"> <br><h3 align='center'><strong> I'm Indraneel Chakraborty! 👨‍💻 </strong></h3><br> <p align="center"><img src="https://avatars.githubusercontent.com/u/64887729?s=400&u=40e71989e22bc957112998e86ecebb982d55e74f&v=4" alt="Avatar" height="200" width="200" style="border-radius: 50%;" ></p><br>
     <p  align='center'><i>Data Science enthusiast, creating data web-apps and solving problems with code (and a lot of googling, of course!)</i>
     <br><br>
     Bioinformatics Engineer at Elucidata Corporation, India. <strong>|</strong> <i>Since June 2021</i>
