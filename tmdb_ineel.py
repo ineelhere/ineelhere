@@ -37,7 +37,8 @@ def tmdb_ineel():
     movie_list = movies['title'].values
     selected_movie = st.selectbox(
         "Type or select a movie from the dropdown",
-        movie_list
+        movie_list,
+        "Kung Fu Panda"
     )
 
     recommended_movie_names,recommended_movie_posters = recommend(selected_movie)
