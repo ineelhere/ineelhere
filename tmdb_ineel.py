@@ -35,9 +35,10 @@ def tmdb_ineel():
     similarity = pickle.load(open('model/similarity.pkl','rb'))
 
     movie_list = movies['title'].values
+    movie_list.insert(0,"Kung Fu Panda")
     selected_movie = st.selectbox(
         "Type or select a movie from the dropdown",
-        ["Kung Fu Panda"]+movie_list
+        movie_list
     )
 
     recommended_movie_names,recommended_movie_posters = recommend(selected_movie)
