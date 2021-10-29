@@ -28,8 +28,10 @@ def tmdb_ineel():
     st.header('TMDB Movie Recommender System | ineelhere')
     st.info("""
     * Data Source: [https://www.kaggle.com/tmdb/tmdb-movie-metadata](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+    * Model building: [https://github.com/ineelhere/ineelhere/tree/main/model](https://github.com/ineelhere/ineelhere/tree/main/model)
     * Reference: [https://youtu.be/1xtrIEwY_zY](https://youtu.be/1xtrIEwY_zY)
     * Developer: [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
+    
     """)
     movies = pickle.load(open('model/movie_list.pkl','rb'))
     similarity = pickle.load(open('model/similarity.pkl','rb'))
