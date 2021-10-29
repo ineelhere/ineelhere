@@ -25,7 +25,7 @@ def tmdb_ineel():
         return recommended_movie_names,recommended_movie_posters
 
 
-    st.header('TMDB Movie Recommender System')
+    st.header('TMDB Movie Recommender System | ineelhere')
     st.info("""
     * Data Source: [https://www.kaggle.com/tmdb/tmdb-movie-metadata](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
     * Reference: [https://youtu.be/1xtrIEwY_zY](https://youtu.be/1xtrIEwY_zY)
