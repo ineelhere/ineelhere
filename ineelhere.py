@@ -3,6 +3,7 @@ from translate_text import *
 from chemapp import *
 from portfolio import *
 from word_freq import *
+from tmdb_ineel import *
 
 st.sidebar.markdown("""
 ## `Hello World!`
@@ -13,7 +14,7 @@ st.sidebar.markdown("""
 
 st.sidebar.write("**Here are a few webapps I've created with streamlit in python**")
 selections = ["About me 🙂", 
-            "Translate text using Python",
+            "TMDB Movie Recommendation System",
             "Find frequencies of all words present in a sentence" ,
             "Visualize chemical structures", 
             "Realtime stats on the COVID19 situation in India"]
@@ -23,7 +24,7 @@ response = st.sidebar.radio('', selections)
 if response == selections[0]:
     portfolio()
 if response == selections[1]:
-    translate_text()
+    tmdb_ineel()
 if response == selections[2]:
     word_freq()    
 if response == selections[3]:
