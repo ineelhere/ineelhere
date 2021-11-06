@@ -4,6 +4,7 @@ from chemapp import *
 from portfolio import *
 from word_freq import *
 from tmdb_ineel import *
+from jokes import *
 
 st.sidebar.markdown("""
 ## `Hello World!`
@@ -17,7 +18,8 @@ selections = ["About me 🙂",
             "TMDB Movie Recommendation System",
             "Find frequencies of all words present in a sentence" ,
             "Visualize chemical structures", 
-            "Realtime stats on the COVID19 situation in India"]
+            "Realtime stats on the COVID19 situation in India",
+            "Jokes"]
 
 response = st.sidebar.radio('', selections)
 
@@ -38,6 +40,8 @@ if response == selections[4]:
     <iframe src="https://share.streamlit.io/ineelhere/ifc19/2.0/ifc19_app.py" height=800 width=100% ></iframe>
 
     """,unsafe_allow_html=True)
+if response == selections[5]:
+    jokes()
 
 st.sidebar.markdown("""
 ___
