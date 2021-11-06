@@ -1,12 +1,14 @@
 import streamlit as st
 import requests
+import pandas as pd
 
-def jokes():
-    st.header("A Random Programming Joke 😉")
-    if st.button('Click here for a Joke'):
-        st.write(requests.get("https://v2.jokeapi.dev/joke/Programming?format=txt").text)
+def quotes():
+    st.header("A Random Quote 🙂")
+    if st.button('Click here for a rnadom Quote'):
+        x = pd.read_json(requests.get("https://api.quotable.io/random").text)
+        st.write(f'{x["content"][0]} - {x["author"][0]}')
         st.balloons()
-    
+
     st.markdown("""
     ___
     **© [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/) | 2021**
