@@ -4,4 +4,4 @@ pandas >= 0
 plotly >= 0
 streamlit >= 0
 requests >= 0
-streamlit_embedcode >= 0
+streamlit-embedcode >= 0
