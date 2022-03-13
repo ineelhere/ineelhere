@@ -12,7 +12,7 @@ st.sidebar.markdown("""
 ## `Hello World!`
 ### I'm Indraneel Chakraborty 👨‍💻
 
-*All things Data enthusiast, building data web-apps and solving problems with code (with lots of googling, of course!)*
+*All things Tech enthusiast, building data web-apps and solving problems with code (with lots of googling, of course!)*
 """, unsafe_allow_html=True)
 
 st.sidebar.write("**Here are a few webapps I've created with streamlit in python**")
