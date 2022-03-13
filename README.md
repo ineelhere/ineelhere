@@ -3,7 +3,7 @@
   <p align='center'>
     <strong> Hi, I'm Indraneel Chakraborty! 👨‍💻 </strong>
   </p>
-  <p align='center'>All things Data enthusiast, building data web-apps and solving problems with code (with lots of googling, of course!) <br>
+  <p align='center'>All things Tech enthusiast, building data web-apps and solving problems with code (with lots of googling, of course!) <br>
     <br>
     <i>
       Bioinformatics Engineer at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
