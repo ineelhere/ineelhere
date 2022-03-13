@@ -8,6 +8,9 @@ from jokes import *
 from python101 import *
 from random_quotes import *
 
+st.ballons()
+st.snow()
+
 st.sidebar.markdown("""
 ## `Hello World!`
 ### I'm Indraneel Chakraborty 👨‍💻
