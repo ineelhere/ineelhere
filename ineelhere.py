@@ -15,7 +15,7 @@ st.sidebar.markdown("""
 ## `Hello World!`
 ### I'm Indraneel Chakraborty 👨‍💻
 
-*DevOps Enthusiast solving problems with code (and lots of googling, of course!)*
+*DevOps and Tech Enthusiast solving problems with code (and lots of googling, of course!)*
 """, unsafe_allow_html=True)
 
 st.sidebar.write("**Here are a few webapps I've created with streamlit in python**")
