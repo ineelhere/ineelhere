@@ -7,6 +7,7 @@
     <br>
     <i>
       Bioinformatics Engineer at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
+      Volunteer Lesson Maintainer at <a href="https://carpentries.org/" target="_blank">The Carpentries</a>. <br>
       Volunteer Technical Reviewer at <a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>. <br>
       Managed Network Expert (Freelance) in Biology at <a href="https://www.chegg.com/" target="_blank">Chegg</a>. <br>
       Former Research Assistant at <a href="https://www.ibab.ac.in/" target="_blank">Institute of Bioinformatics and Applied Biotechnology</a>. <br>
