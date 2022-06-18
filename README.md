@@ -28,6 +28,9 @@
     <a href="https://github.com/ineelhere" target="_blank">
       <img width="32" height="32" src="https://github.com/fluidicon.png" alt="Github">
     </a>
+     <a href="https://indraneel.hashnode.dev/" target="_blank">
+      <img width="32" height="32" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode">
+    </a>
     <a href="https://www.youtube.com/channel/UCbIMzl7rOj0FkamVf_aBM8w" target="_blank">
       <img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon_48.png" alt="YouTube" width="32" height="32">
     </a>
