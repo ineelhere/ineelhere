@@ -45,6 +45,6 @@
 </section>
 </main>
 <p align='center'> Visit <strong>
-    <a href="[[https://share.streamlit.io/ineelhere/ineelhere/main/ineelhere.py](https://ineelhere.streamlitapp.com/)](https://ineelhere.streamlitapp.com/)" target="_blank">HERE</a>
+    <a href="https://ineelhere.streamlitapp.com" target="_blank">HERE</a>
   </strong> to explore a few web-apps I have created using python! </p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ineelhere&show_icons=true&theme=algolia" width = 390px alt="indraneel-chakraborty"></p> -->
