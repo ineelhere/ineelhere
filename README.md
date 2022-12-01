@@ -7,6 +7,7 @@
     <br>
     <i>
       Bioinformatics Engineer at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
+      Open Source Creator Community member at  <a href="https://streamlit.io/creators" target="_blank">Streamlit.</a> <br>
       Volunteer Lesson Maintainer at <a href="https://carpentries.org/" target="_blank">The Carpentries</a>. <br>
       Volunteer Technical Reviewer at <a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>. <br>
       Managed Network Expert (Freelance) in Biology at <a href="https://www.chegg.com/" target="_blank">Chegg</a>. <br>
