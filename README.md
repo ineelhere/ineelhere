@@ -3,7 +3,7 @@
   <p align='center'>
     <strong> Hi, I'm Indraneel Chakraborty! 👨‍💻 </strong>
   </p>
-  <p align='center'>Solving problems with code-first, data-centric approaches on cloud with devOps principles! <br>
+  <p align='center'>Solving problems using code-first and data centric approaches on cloud with devOps principles! <br>
     <br>
     <i>
       Bioinformatics Engineer II at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
