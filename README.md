@@ -6,11 +6,12 @@
   <p align='center'>Solving problems using code-first and data centric approaches on cloud with devOps principles! <br>
     <br>
     <i>
-      Bioinformatics Engineer II at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
+      R/Shiny Developer at <a href="https://appsilon.com" target="_blank">Appsilon.</a> <br>
       Open Source Creator Community member at  <a href="https://streamlit.io/creators" target="_blank">Streamlit.</a> <br>
       Volunteer Lesson Maintainer at <a href="https://carpentries.org/" target="_blank">The Carpentries</a>. <br>
       Volunteer Technical Reviewer at <a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>. <br>
       Managed Network Expert (Freelance) in Biology at <a href="https://www.chegg.com/" target="_blank">Chegg</a>. <br>
+      Former Senior Bioinformatics Engineer at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
       Former Research Assistant at <a href="https://www.ibab.ac.in/" target="_blank">Institute of Bioinformatics and Applied Biotechnology</a>. <br>
     </i>
   </p>
@@ -37,15 +38,16 @@
     </a>
   </h6>
   <br>
-  <p align=center>
+<!--   <p align=center>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZuuBTcglrHmKFfTwZ66HdHVYKge6kJ3cAtSCdF7e_8NMypg/viewform" class="btn btn-outline-success" target="_blank">
       <strong>Contact Me</strong>
     </a>
-  </p>
+  </p> -->
+
 </div>
 </section>
 </main>
-<p align='center'> Visit <strong>
+<!-- <p align='center'> Visit <strong>
     <a href="https://ineelhere.streamlitapp.com" target="_blank">HERE</a>
-  </strong> to explore a few web-apps I have created using python! </p>
+  </strong> to explore a few web-apps I have created using python! </p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ineelhere&show_icons=true&theme=algolia" width = 390px alt="indraneel-chakraborty"></p> -->
