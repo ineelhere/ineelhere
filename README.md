@@ -28,16 +28,4 @@
     </a>
   </h6>
   <br>
-<!--   <p align=center>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZuuBTcglrHmKFfTwZ66HdHVYKge6kJ3cAtSCdF7e_8NMypg/viewform" class="btn btn-outline-success" target="_blank">
-      <strong>Contact Me</strong>
-    </a>
-  </p> -->
 
-</div>
-</section>
-</main>
-<!-- <p align='center'> Visit <strong>
-    <a href="https://ineelhere.streamlitapp.com" target="_blank">HERE</a>
-  </strong> to explore a few web-apps I have created using python! </p> -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ineelhere&show_icons=true&theme=algolia" width = 390px alt="indraneel-chakraborty"></p> -->
