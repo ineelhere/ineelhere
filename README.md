@@ -4,7 +4,7 @@
   <p align='center'>
     <strong> Hi, I'm Indraneel Chakraborty! 👨‍💻 </strong>
   </p>
-  <p align='center'> A software <code>developer</code> and data <code>researcher</code> with a background in <code>Bioinformatics</code>; <br> solving problems using code-first and data-centric approaches on the <code>cloud</code> with <code>DevOps</code> principles!
+  <p align='center'> A software <code>developer</code> and data <code>researcher</code> with a background in <code>Bioinformatics</code>; <br> solving problems using code-first and data-centric approaches on the <code>cloud</code> with <code>DevSecOps</code> principles!
   </p>
   <h6 class="jumbotron-heading" align='center'>
     <a href="mailto:hello.indraneel@gmail.com" target="_blank">
